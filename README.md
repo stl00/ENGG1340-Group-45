@@ -11,20 +11,17 @@ In details, the system will have below basic functions:
 4) Suggest a vacant table with minimal enough seats concerning the number of customers.
 5) Notify the waiter for tables occupied for too long.
 
+For further application, we define some useful functions in our project:
+
+6) Since the customer base changes on a seasonal basis, the number of tables and the size of the tables can be adjusted based on actual situations.
+7) Reserve a table for appointments.
+8) Add or delete orders to each table with prices so that the total billing can be displayed when checking.
 
 To faciliate customer's waiting process, we generate an queue system which allows following functions:
 
-6) Every coming customer can pick up a number indicating his position in the waiting line.
-7) Meanwhile, the customer should be able to see the number of customers before him, based on the current status of tables and the queue.
-8) If a customer has already left and cannot be found when summoned, the waiter should delete his/hers position in the queue.
-
-
-For further application, we define some new functions in our project:
-
-9) Since the customer base changes on a seasonal basis, the number of tables and the size of the tables can be adjusted based on actual situations.
-10) Reserve a table for appointments.
-11) Add or delete orders to each table with prices so that the total billing can be displayed when checking.
-
+9) Every coming customer can pick up a number indicating his position in the waiting line.
+10) Meanwhile, the customer should be able to see the number of customers before him, based on the current status of tables and the queue.
+11) If a customer has already left and cannot be found when summoned, the waiter should delete his/hers position in the queue.
 
 Another innovation of the system is the membership management with following functions:
 
