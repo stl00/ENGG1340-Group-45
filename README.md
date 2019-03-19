@@ -8,6 +8,8 @@ In details, the system will have below basic functions:
 3) Release a table.
 4) Suggest a vacant table with minimal enough seats concerning the number of customers.
 5) Notify the waiter for tables occupied for too long.
+
+
 To faciliate customer's waiting process, we generate an queue system which allows following functions:
 6) Every coming customer can pick up a number indicating his position in the waiting line.
 7) Meanwhile, the customer should be able to see the number of customers before him, based on the current status of tables and the queue.
