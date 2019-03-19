@@ -1,7 +1,9 @@
 # ENGG1340-Group-45
 A Powerful Table Management System
 Problem statement and settings:
+
 This system targets to build a small yet powerful table management system to manage the few tables of different sizes in a family-owned deli regarding the occupancy, reservation, and billing, etc. of these tables. 
+
 In details, the system will have below basic functions:
 1) Check whether a table is available or occupied.
 2) Occupy a table.
