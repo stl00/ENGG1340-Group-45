@@ -3,7 +3,7 @@ A Powerful Table Management System
 
 Problem statement and settings:
 
-Assuming that we have a family-owned restaurant which specializes in Chinese cuisine. In order to maximize administration effiency, we target to develop a system to manage the tables' status in terms of their occupancy, reservation, and billing, etc. The system should be able to help the waiter identify adn control every table's status on a user-friendly terminal with simple interacrive interfaces (say a large touchscreen deveice) corresponding to the real-world scenarios.
+Assuming that we have a family-owned restaurant which specializes in Chinese cuisine. In order to maximize administration effiency, we target to develop a system to manage the tables' status in terms of their occupancy, reservation, and billing, etc. The system should be able to help the waiter identify adn control every table's status on a user-friendly terminal with simple interacrive interfaces (say a large touchscreen device) corresponding to the real-world scenarios.
 
 In details, the system will have below basic functions:
 1) Display whether a table is available or occupied.
@@ -14,7 +14,7 @@ In details, the system will have below basic functions:
 
 For further application, we define some useful functions in our project:
 
-6) Since the customer base changes on a seasonal basis and a Chinese restaruant can arrange its tables flexibly, we can adjust the size and the number of tables. Furthermore, we assume that the number of chairs is a constant (say 100 seats), based on the size of restaurant. For example, we can not have 21 tables whose size are 5, because it exceeds 100 seats (21 * 5 > 100).
+6) Since the customer base changes on a seasonal basis and a Chinese restaruant can arrange its tables flexibly, we can adjust the size and the number of tables. Furthermore, we assume that the number of chairs is a constant (say 100 seats), based on the size of restaurant. For example, we can not have 21 tables whose size are 5, because it exceeds 100 seats (21 * 5 > 100). Moreover, we define the size of table can only be 2, 4, 6, 8, 10. A table whose size is 4 can accommodate 3 or 4 people.
 7) Reserve a table for appointments, i.e. to occupy a table in advance and mark it with a flag "reserved".
 8) Add or delete orders to each table with prices so that the total billing can be displayed when checking.
 
