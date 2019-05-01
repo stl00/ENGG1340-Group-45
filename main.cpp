@@ -17,7 +17,7 @@ const string HINT_FOR_USER =
     "Occupation Time";
 const string OPENING_HINT =
     "Welcome to table management system! Please initialize your tables first.";
-const string MEMBERSHIP_DATA_FILENAME = "/membership.txt";
+const string MEMBERSHIP_DATA_FILENAME = "membership.txt";
 const double LONG_OCCUPITION_TIME = 7200;
 
 // A struct to build the linked list of the queue.
